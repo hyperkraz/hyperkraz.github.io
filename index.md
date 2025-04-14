@@ -2,6 +2,7 @@
   body {
     background-color: black;
     color: white;
+    background: black;
   }
   a {
     color: #90caf9;
