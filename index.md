@@ -93,4 +93,4 @@ Or visit my [LinkedIn](https://www.linkedin.com/) (add link if you want to flex 
 
 ---
 
-<p style="font-size:11px">Page template adapted from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">The page template initally used but then heavily edited was shared by <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
