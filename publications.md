@@ -20,6 +20,18 @@
   b {
     color: white;
   }
+  /* Override the site title color */
+  .site-title a {
+    color: #81078a !important;
+  }
+  
+  /* Override all link colors */
+  a,
+  a:visited,
+  a:hover,
+  a:active {
+    color: #ea00ff !important;
+  }
 </style>
 
 # Publications
