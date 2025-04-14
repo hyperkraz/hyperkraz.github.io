@@ -30,7 +30,7 @@
   a:visited,
   a:hover,
   a:active {
-    color: #ea00ff !important;
+    color: #02f702 !important;
   }
 </style>
 
