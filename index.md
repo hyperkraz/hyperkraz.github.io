@@ -2,9 +2,19 @@
   body {
     background-color: black;
     color: white;
+    font-family: sans-serif;
   }
   a {
     color: #90caf9;
+  }
+  hr {
+    border: 0;
+    height: 1px;
+    background: #444;
+  }
+    /* Making header text blue */
+  h1, h2, h3, h4, h5, h6 {
+    color: #1695a1;
   }
 </style>
 
