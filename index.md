@@ -20,9 +20,17 @@
   b {
     color: white;
   }
-    /* Change the site title color */
+  /* Override the site title color */
   .site-title a {
-    color: #ea00ff; /* Replace this with your preferred hex code */
+    color: #ea00ff !important;
+  }
+  
+  /* Override all link colors */
+  a,
+  a:visited,
+  a:hover,
+  a:active {
+    color: #ea00ff !important;
   }
 </style>
 
