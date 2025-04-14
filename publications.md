@@ -36,7 +36,7 @@
 
 # Publications
 
-Welcome to my publication portfolio! Here you'll find a breakdown of my scholarly contributions from 2022 to the present, including peer-reviewed articles, letters, submissions, and presentations at scientific meetings.
+Welcome to GPT 4.5's summary of Andrew Ritchey's works! Here you'll find a breakdown of his scholarly contributions from 2022 to the present, including peer-reviewed articles, letters, submissions, and presentations at scientific meetings.
 
 ---
 
@@ -133,6 +133,4 @@ Welcome to my publication portfolio! Here you'll find a breakdown of my scholarl
     *Liliana Montoya, Judith O’haver, Michael Lavery, Alok Kothari, Harper Price, Andrew Ritchey (2022).*  
     2022 ISSVA
 
----
 
-<p style="font-size:11px">Page template adapted from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
