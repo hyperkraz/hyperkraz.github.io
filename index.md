@@ -1,3 +1,13 @@
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+  a {
+    color: #90caf9;
+  }
+</style>
+
 ## Portfolio
 
 ---
