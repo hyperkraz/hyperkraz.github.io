@@ -35,11 +35,7 @@
 </style>
 
 
-📍 Phoenix, Arizona 
 
-✉️ [aritchey@phoenixchildrens.com](mailto:aritchey@phoenixchildrens.com)
-
----
 
 ## 👨‍🎓 Education
 
