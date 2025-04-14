@@ -22,7 +22,7 @@
   }
   /* Override the site title color */
   .site-title a {
-    color: #ea00ff !important;
+    color: #81078a !important;
   }
   
   /* Override all link colors */
