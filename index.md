@@ -67,10 +67,9 @@ See full [publication list here](/publications).
 
 ---
 
-## 📬 References
+## 📬 LinkedIn
 
-Available upon request 🙏  
-Or visit my [LinkedIn](https://www.linkedin.com/in/andrew-ritchey/).
+Visit my [LinkedIn](https://www.linkedin.com/in/andrew-ritchey/).
 
 ---
 
