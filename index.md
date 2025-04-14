@@ -20,6 +20,10 @@
   b {
     color: white;
   }
+    /* Change the site title color */
+  .site-title a {
+    color: #00aaff; /* Replace this with your preferred hex code */
+  }
 </style>
 
 
