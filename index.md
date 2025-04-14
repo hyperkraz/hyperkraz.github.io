@@ -22,7 +22,7 @@
   }
     /* Change the site title color */
   .site-title a {
-    color: #00aaff; /* Replace this with your preferred hex code */
+    color: #ea00ff; /* Replace this with your preferred hex code */
   }
 </style>
 
