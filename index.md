@@ -27,8 +27,7 @@
 </style>
 
 
-📍 Phoenix, Arizona  
-📞 480-309-5088  
+📍 Phoenix, Arizona 
 ✉️ [aritchey@phoenixchildrens.com](mailto:aritchey@phoenixchildrens.com)
 
 ---
