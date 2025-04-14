@@ -8,7 +8,6 @@
   }
 </style>
 
-# Andrew Ritchey
 
 📍 Phoenix, Arizona  
 📞 480-309-5088  
@@ -27,23 +26,6 @@
 ## 🏆 Scholarships & Awards
 
 - **President’s Scholarship**, Arizona State University
-
----
-
-## 💼 Experience
-
-### **Biostatistician**, Phoenix Children’s  
-*Sept 2024 – Present*
-
-- Statistical consulting and analysis (R, SAS)  
-- Data cleaning, sample size calculations, manuscript writing  
-- Clinical and quality improvement research
-
-### **Biostatistics Research Intern**, Phoenix Children’s  
-*May 2022 – Sept 2024*
-
-- Literature reviews, multivariate analysis, power calculations  
-- Created summary tables and scheduled study meetings  
 
 ---
 
@@ -75,7 +57,6 @@ See full [publication list here](/publications).
 
 - **Languages:** R, SAS, Python, MATLAB, Fortran, Scheme, Prolog  
 - **OS:** Windows, Linux, Unix  
-- **Stats Tools:** Excel, LaTeX, ggplot2, caret, glmnet, torch  
 
 ---
 
@@ -89,7 +70,7 @@ See full [publication list here](/publications).
 ## 📬 References
 
 Available upon request 🙏  
-Or visit my [LinkedIn](https://www.linkedin.com/) (add link if you want to flex that).
+Or visit my [LinkedIn](https://www.linkedin.com/in/andrew-ritchey/).
 
 ---
 
