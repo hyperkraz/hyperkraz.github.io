@@ -45,7 +45,7 @@
 
 ## 🧪 Research & Publications
 
-**Peer-Reviewed Articlez**  
+**Peer-Reviewed Articles**  
 - Ritchey A, et al. *Barriers in pediatric IBD care*. JPGN (2024).  
 - Yousif M, Ritchey A, et al. *Skin manifestations in pediatric IBD*. JPGN (2024).
 
