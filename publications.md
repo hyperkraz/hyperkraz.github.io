@@ -36,7 +36,7 @@
 
 # Publications
 
-Welcome to GPT 4.5's summary of Andrew Ritchey's works! Here you'll find a breakdown of his scholarly contributions from 2022 to the present, including peer-reviewed articles, letters, submissions, and presentations at scientific meetings.
+<p style="font-size:11px">Welcome to GPT 4.5's summary of Andrew Ritchey's works! Here you'll find a breakdown of his scholarly contributions from 2022 to the present, including peer-reviewed articles, letters, submissions, and presentations at scientific meetings.</p>
 
 ---
 
