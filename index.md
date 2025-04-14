@@ -1,8 +1,8 @@
 <style>
   body {
-    background-color: black;
+    background-color: black !important;
     color: white;
-    background: black;
+    background: black !important;
   }
   a {
     color: #90caf9;
