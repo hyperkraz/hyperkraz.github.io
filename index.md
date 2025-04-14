@@ -95,4 +95,4 @@ Visit my [LinkedIn](https://www.linkedin.com/in/andrew-ritchey/).
 
 ---
 
-<p style="font-size:11px">The page template initally used but then heavily edited was shared by <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">The page template initially used but then heavily edited was shared by <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
